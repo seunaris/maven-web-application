@@ -94,7 +94,7 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
+	      <name>Praxis Technologies Releases Nexus Repository</name>
 	      <url>http://3.92.61.57:8181/mylandmarktech/repository/tesla-releases/</url>
 	    </repository>
 	    
